@@ -1,4 +1,4 @@
 baseURL = 'http://www.neurodatashare.org/'
 languageCode = 'en-us'
-title = 'NeuroDataShare 2023'
+title = 'NeuroDataShare'
 theme = "ananke"
