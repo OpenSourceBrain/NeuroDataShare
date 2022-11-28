@@ -1,7 +1,7 @@
 ---
 title: "NeuroDataShare 2023"
 
-description: "Exploring and sharing multi-scale neuroscience data"
+description: "Exploring and sharing multi-scale neuroscience data - Feb 2023  Sainsbury Wellcome Centre London "
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
