@@ -23,7 +23,7 @@ title: "NeuroDataShare 2023"
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring and sharing multi-scale neuroscience data
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pgleeson.github.io/testerweb/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.neurodatashare.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   sass_dir: _sass
