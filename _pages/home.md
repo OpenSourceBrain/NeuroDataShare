@@ -29,7 +29,7 @@ NeuroDataShare 2023
 </div>
 FEBRUARY 20-23 2022, SAINSBURY WELLCOME CENTRE, LONDON, UK
 </div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/jumping_mouse.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/osbmodels.png">
 </div>
 
 <div class="col-sm-9">

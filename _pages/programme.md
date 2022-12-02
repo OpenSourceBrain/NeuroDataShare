@@ -1,5 +1,5 @@
 ---
-title: "Senses in Motion - Programme"
+title: "NeuroDataShare - Programme"
 layout: gridlay
 excerpt: "Symposium programme"
 sitemap: false
