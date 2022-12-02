@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign member = page %}
+
+<div id="gridid" class="col-xs-4 col-md-3">
+  <img class="float-left mw-100" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" width=250>
+</div>
+<div class="col-xs-8 col-md-9 my-auto">
+  <div class="membertitle">{{ member.title }}</div>
+  <p>{{ member.info }} <br />
+  <i class="fas fa-envelope fa-fw"></i>&nbsp; <a href="maito:{{ member.email }}">{{ member.email }}</a><br />
+  {% if member.twitter %}
+  <i class="fab fa-twitter fa-fw"></i>&nbsp; <a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a><br />
+  {% endif %}
+  {% if member.github %}
+  <i class="fab fa-github fa-fw"></i>&nbsp; <a href="https://github.com/{{ member.github }}">{{ member.github }}</a><br />
+  {% endif %}
+  {% if member.scholar %}
+  <i class="fas fa-book fa-fw"></i>&nbsp; <a href="{{ member.scholar }}">{{ member.title }}</a>
+  {% endif %}
+  </p>
+</div>
+
+<div class="w-100"></div>
+
+<div class="col-xs-4 col-md-3">
+  <p></p>
+</div>
+<div class="col-xs-8 col-md-9">
+  {{ content }}
+</div>
