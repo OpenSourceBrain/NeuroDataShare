@@ -1,4 +1,0 @@
-baseURL = 'http://www.neurodatashare.org/'
-languageCode = 'en-us'
-title = 'NeuroDataShare'
-theme = "ananke"
