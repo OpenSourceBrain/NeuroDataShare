@@ -1,0 +1,136 @@
+---
+---
+
+@import "variables";
+@import "bootstrap";
+@import "bootswatch";
+// Font Awesome
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/brands.scss";
+@import "fontawesome/solid.scss";
+
+body {
+    padding-top: 80px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.titlebox {
+	vertical-align: middle;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.bigtitle {
+  font-weight: bold;
+	font-size: $font-size-base * 1.5;
+	line-height: 36px;
+}
+
+@media (min-width: 992px) {
+    .bigtitle {
+      font-size: $font-size-base * 2;
+      padding-top: 10px;
+      color: $gray-100;
+    }
+}
+
+.membertitle {
+	font-size: $font-size-base * 2;
+	line-height: 40px;
+	/* Museo */
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-text {
+    color: $logo;
+}
+
+.navbar-light .navbar-brand {
+  font-size: $font-size-base * 1.25;
+  font-weight: 600;
+}
+
+@media (max-width: 400px) {
+    .navbar-light .navbar-brand {
+      font-size: $font-size-base;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: $logo;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+    color: $black;
+}
+
+.bg-light {
+  border-color: $logo;
+}
+
+.panel {
+  background: $gray-100;
+  border-color: lighten($logo, 25%);
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+/* Top navigation bar */
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px; /* or 950px */
+}
+
+/* Home, News */
+#newsid p {
+	text-align: left;
+}
+
+#homeidtmp h1 {
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+/* Team & Publications */
+#gridid img { max-width: 40%; margin: 0px 0px 6px 10px; border-radius:5%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+#sponsorid img { max-width: 250px; margin: 10px }
+
+
+#gridid .row { margin-bottom: 24px; }
+
+/* Grid overrides */
+.col-xs-3, .col-xs-9 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.col-sm-6 {
+	padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+/* Carusel */
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

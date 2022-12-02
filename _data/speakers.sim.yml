@@ -1,0 +1,126 @@
+- title: Check-in and badge collection
+  break: yes
+  time: 8.45-9.00
+
+- title: Opening remarks
+  break: yes
+  time: 9.00-9.10
+
+- name: Jason Kerr
+  title: Imaging cortical activity, visual behavior and skeletal kinematics in freely moving mammals using headmounted 3P-microscopes, cameras and spots.
+  photo: Photo_JKerr.jpg
+  time: 9.10-9.40
+  abstract: "Our lab develops head-mounted multiphoton microscopes for imaging neural activity across cortical layers and head, skeleton and eye tracking techniques for quantifying behavior in freely moving animals, over a range of species. The overall aim of this approach is to generate a thorough understanding of mammalian vision and the organization of the underlying neuronal circuits. In this presentation I will outline our latest developments in miniaturized head-mounted 3-photon microscopes for imaging all layers of the mouse cortex, a new method for tracking freely moving skeleton kinematics, and our recent technique to reconstruct the entire mouse visual scene during predator-prey interactions."
+
+- name: Jennifer Bizley
+  title: Freely moving animals reveal multiple coordinate frames of auditory space
+  photo: jennifer-bizley-04.jpg
+  time: 9.40-10.10
+  abstract: "The spatial location of a sound source must be reconstructed from sound localization cues, principally available through the comparison of the timing and level of the sound at the two ears. Consequently, spatial receptive fields are assumed to be anchored to the direction of the head yet because all previous recordings have been made in animals whose heads are fixed or maintained at the center of a speaking ring this assumption has remained untested. We recorded spatial receptive fields in ferrets foraging freely in a sound field and observed that while many neurons did encode auditory space in a head centered reference frame, a smaller subpopulation encoded the location of the source in the world. By training animals in two distinct tasks we were also able to demonstrate that ferrets can report sound source location across both head and world centered reference frames."
+
+- name: Sepiedeh Keshavarzi
+  title: Multisensory coding of head velocity during passive and active motion
+  photo: sepi2.jpg
+  time: 10.10-10.40
+  abstract: "To successfully navigate the environment, animals rely on their ability to continuously track their heading direction and speed. I will present our recent data on sensory computations that underlie head motion coding in the rodent brain. By performing chronic single-unit recordings in the retrosplenial cortex of the mouse and monitoring the activity of the same neurons under freely moving and head-restrained conditions, we could disentangle the contribution of various sensory/motor cues to head motion signalling during navigation. We found that retrosplenial cortical neurons can reliably track the speed and direction of head turns in complete darkness by relying on vestibular information. The addition of visual input improved the animal’s perception of angular self-motion and increased the accuracy of this cortical head motion signal. Our findings suggest that while head velocity coding requires vestibular input, where possible, it also uses vision to optimise heading estimation during navigation."
+
+- name: DataJoint
+  title: Automated Research Workflows for Neuroscience
+  break: yes
+  time: 10.40-10.50
+
+- title: Coffee break
+  break: yes
+  time: 10.50-11.20
+
+- name: Jakob Voigts
+  title: Sequential spatial reasoning in unrestrained mouse navigation
+  photo: jakob_voigts.png
+  time: 11.20-11.50
+  abstract: "From visual perception to language, stimuli change their meaning depending on prior experience. I will first outline the challenges of recording neural activity during rich behaviors that engage such computations, where mice deliberate between multiple meanings of ambiguous stimuli, and show how such experiments are now possible thanks to recent developments in freely moving recording technology. I will then show how we use navigation in freely moving mice to study context-based computations: By limiting the amount of information available to the mice, we force them to sequentially refine their belief about their own position, and to interpret ambiguous visual stimuli based on prior beliefs. Our results indicate that interactions between internal hypotheses and external sensory data in recurrent circuits can provide a substrate for complex sequential cognitive reasoning, and show that appropriately designed and quantified free mouse behavior can be used to study complex context-dependent sensory computations."
+
+- name: Eugenia Chiappe
+  title: Brain-body interactions for goal-directed actions in exploratory Drosophila
+  photo: Eugenia_Chiappe_web5.jpg
+  time: 11.50-12.20
+  abstract: "The uncertainties of the environment alongside inevitable variations in neuromuscular signals change the
+context in which a step occurs, thereby jeopardizing posture stability during goal-directed walking. To
+achieve behavioral goals, neuromechanical systems must orchestrate a balance between posture stability
+and movement flexibility, since posture adjustments not always align with intended movement. Yet rarely
+is it considered how this balanced is orchestrated. Here, I will discuss our efforts to answer this question in
+the context of a naturalistic exploratory behavior in Drosophila. Quantitative analysis of movement across
+the body showed that flies exploring a mildly aversive environment structure their behavior to maximize
+gaze control. By combining virtual reality techniques with selective manipulations of neural activity, we
+found that multimodal self-motion information is critical for gaze control. Visual feedback rapidly tunes
+down posture reflexes, rendering walking less mechanical stable specifically when the fly aims to maintain
+gaze fixed. We found that recurrent interactions between premotor circuits in the brain and the ventral nerve
+cord of the fly —the insect analogue of the spinal cord, support this motor context-dependent and goaldirected
+steering adjustments. Ascending signals from the ventral nerve or vertebrate spinal cords have been
+observed in premotor circuits in different animal species, but their nature and functional role has remained
+unclear. Together, these findings support a model in which bidirectional interactions between the brain and
+the body orchestrate the interplay between mechanical stability and movement flexibility in a manner that
+is both goal-dependent and motor-context specific."
+
+- name: NeuroGEARS
+  title: Expanding the neuroscience toolkit with open-source hardware and software
+  time: 12.20-12.30
+  break: yes
+
+- title: Lunch reception - all attendees welcome!
+  break: yes
+  time: 12.30-13.30
+
+- name: Cris Niell
+  title: Neural coding for active vision and natural visual behavior
+  photo: Niell_photo.jpg
+  time: 13.30-14.00
+  abstract: "In the natural world, animals use vision to analyze complex scenes and enable a wide range of visually-driven behaviors, many of which require movement through the environment. However, in practice most studies of vision are performed in stationary subjects performing artificial tasks in response to simple stimuli. In order to bridge this disconnect between how vision is actually used and how it is studied in the lab, we are investigating the neural circuits mediating ethological behaviors that mice perform. We have developed naturalistic tasks that provide insight into behavioral strategies and neural mechanisms that enable detection of relevant stimulus features within a complex and dynamic sensory environment. We have also implemented novel experimental approaches to measure neural coding of the visual scene as animals freely move through their environment, which have revealed the impact of movement-related signals and active sampling on visual processing."
+
+- name: Malcolm MacIver
+  title: Tuning movement for sensing in an uncertain world and the transition to planning
+  photo: 2017_maciver_hirez_photo.jpg
+  time: 14.00-14.30
+  abstract: "The information animals seek---for tracking other animals to prey on, to avoid being preyed on, or for mating---is dispersed unevenly. We need to move our bodies and the sensors on them.  But how should we do that? 'Infotaxis' and the like suggest a method of moving to maximize the gain of information at each movement. However, the agreement with what animals do is unclear. We present a new approach, energy-constrained proportional betting, and show that it generates sensor trajectories that agree well with measured trajectories of animals localizing targets across four species spanning insects, fish, and mammals, tracking objects with vision, olfaction, and electrosense. In a more advanced strategy for harvesting information, some animals have gained the ability to learn from hypothetical experience (\"planning\") so that imagined futures can be evaluated prior to enactment. This likely helps prevent \"trial and error\" from becoming \"trial and death\" in decisions of mortal consequence. We present some new work providing insight into this process."
+
+- name: Andrew Straw
+  title: Virtual reality and calcium imaging in freely moving Drosophila
+  photo: Straw_portrait.jpeg
+  time: 14.30-15.00
+  abstract: "Fruit flies perform a variety of visual and navigational tasks from visually-mediated stabilization to visual place memory. Despite powerful genetic tools available to Drosophila researchers, our ability to study the neurobiology of insect vision and navigation can be limited by the need to fix flies at the focus of a microscope to record neural activity. Here I will discuss the development of an apparatus to immerse freely moving animals in a computer controlled, reactive 3D visual world. Using this virtual reality apparatus to test freely flying Drosophila, we have shown that when the head of the fly is immobilized with respect to the thorax, freely flying flies are not able to implement basic optomotor stabilization and thus it seems that movement of the head relative to the thorax is an essential component of natural free flight behavior. Ultimately, we would like to record neural activity in freely moving flies, and therefore we are constructing a microscope which automatically tracks freely walking flies to enable calcium imaging during navigational tasks such as path integration. In the future, precision stimulation and recording technologies will allow performing new types of experiments to gain mechanistic insights into insect navigation and, ultimately, will improve our understanding of the behavioral and physiological basis of the ecology of these important organisms."
+
+- name: Cambridge NeuroTech
+  title: A neuroscientist's toolbox for electrophysiology and optogenetics
+  break: yes
+  time: 15.00-15.10
+
+- title: Coffee break
+  break: yes
+  time: 15.10-15.40
+
+- name: Matt Smear
+  title: Neural correlates of state and place in the olfactory bulb of freely-moving mice
+  photo: matt_wyoming.png
+  time: 15.40-16.10
+  abstract: "Odors carry useful navigational and episodic information, but no matter how many receptor genes are in an animal’s genome, there is no receptor for time or place. To optimally orient by olfactory information, brains must unify odor-driven activity with contextual representations of self-movement and -location. Studies in other sensory modalities demonstrate that motor- and location-related signals are common in primary sensory areas. Motivated by these findings, and given the reciprocal connection between olfactory system and hippocampus, we hypothesized that the olfactory bulb encodes contextual information. To test this hypothesis, we captured the sniffing and movement of mice while recording spiking in olfactory bulb (OB), in the absence of experimenter-applied stimuli or tasks. Breathing and spiking differ between head-fixed and freely-moving states. During free movement respiration is rhythmically organized into discrete states lasting minutes, whereas these states are not apparent during head-fixation on a stationary platform. This discrete organization is likewise apparent in the “spontaneous” activity of the olfactory bulb – many individual neurons fire selectively during particular rhythmic states. In addition to these state-selective signals, we also found that allocentric position can be decoded from neuronal ensembles in OB, with comparable decoding performance to hippocampal ensembles recorded under the same conditions. Thus, even during uninstructed behavior and ambient stimuli, contextual information about state and place can be read out from the activity of the olfactory bulb. We propose that these contextual signals facilitate the incorporation of olfactory information into cognitive maps of environment and self."
+
+- name: Dora Angelaki
+  title: "Active sensing and flexible neural coding during visually guided virtual navigation"
+  photo: dora_angelaki.png
+  time: 16.10-16.40
+  abstract: "<p>We will summarize two aspects of naturalistic visually guided navigation.</p>
+
+<p>First, the role of active sensing (gaze) in planning and memory. By analyzing the spatial distribution of human gaze to transiently visible goals in virtual mazes we found that environmental complexity mediated a striking tradeoff in the extent to which attention was directed towards two complimentary aspects of the world model: the reward location and task-relevant transitions. The temporal evolution of gaze revealed rapid, sequential prospection of the future path, evocative of neural replay. These findings suggest that the spatiotemporal characteristics of gaze during navigation are significantly shaped by the unique cognitive computations underlying real-world, sequential decision making.</p>
+
+<p>Second, in a simplified navigation paradigm in monkeys, we explored how neural nodes operate within the recurrent action-perception loops that characterize naturalistic self-environment interactions and how brain networks reconfigure during changing computational demands. Here, we record spiking activity and LFPs simultaneously from the dorsomedial superior temporal area (MSTd), parietal area 7a, and dorsolateral prefrontal cortex (dlPFC) as monkeys navigate in virtual reality to “catch fireflies”. This task requires animals to actively sample from a closed-loop visual environment while concurrently computing latent variables: the evolving distance and angle to a memorized goal. We observed mixed selectivity in all areas, with even a traditionally sensory area (MSTd) tracking latent variables. Strikingly, global encoding profiles and unit-to-unit coupling suggested a functional subnetwork between MSTd and dlPFC, and not between these areas and 7a, as anatomy would suggest. When sensory evidence was rendered scarce, lateral connectivity through neuron-to-neuron coupling within MSTd strengthened but its pattern remained fixed, while neuronal coupling adaptively remapped within 7a and dlPFC. The larger the remapping in 7a/dlPFC and the greater the stability within MSTd, the less was behavior impacted by loss of sensory evidence. These results highlight the distributed nature of neural coding during closed-loop action-perception naturalistic behaviors and suggest internal models may be housed in the pattern of fine-grain lateral connectivity within parietal and frontal cortices.</p>
+"
+
+- name: Jennifer Hoy
+  title: Development of active vision in the mouse
+  photo: jen_hoy.jpg
+  time: 16.40-17.10
+  abstract: "Despite decades of research into the molecular and cellular mechanisms underlying the development of the mouse visual system, we understand comparatively little about how mice actively process visual stimuli at key stages of development. I will discuss our work to quantify the features of visual objects that mice detect and respond to when freely moving in the context of natural prey capture behavior at several key stages of development.  Further, I will describe a novel circuit mechanism underlying a striking developmental difference in the motivation to pursue live prey and respond to prey-like visual objects in adolescent mice compared to adults and younger juveniles. "
+
+- name:
+  title: Social and networking reception - all attendees welcome!
+  time: 17.10-18.30
+  break: yes
