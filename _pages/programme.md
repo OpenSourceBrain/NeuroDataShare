@@ -1,7 +1,7 @@
 ---
 title: "NeuroDataShare - Programme"
 layout: gridlay
-excerpt: "Symposium programme"
+excerpt: "Workshop programme"
 sitemap: false
 permalink: /programme
 ---
@@ -76,4 +76,4 @@ permalink: /programme
 ## Wednesday 22nd & Thursday 23rd Feb 2023 - Hackathon
 
 
-(More details to follow)
+For details on the Hackathon following the main meeting, see <a href="{{ site.url }}{{ site.baseurl }}/hackathon">here</a>. 
