@@ -59,7 +59,9 @@ Modern experimental neuroscience is producing huge amounts of data at a rapidly 
 
 <br/>
 <h2>Organisers</h2>
-<a href="https://v2.opensourcebrain.org/user/0103eaaf-6a34-4509-a025-14367a52aa2b">Padraig Gleeson</a>, <a href="http://silverlab.org/">Angus Silver</a> and <a href="http://zebrafishucl.org/bianco-lab">Isaac Bianco</a>.
+<a href="https://v2.opensourcebrain.org/user/0103eaaf-6a34-4509-a025-14367a52aa2b">Padraig Gleeson</a>, 
+<a href="http://silverlab.org/">Angus Silver</a> and <a href="http://zebrafishucl.org/bianco-lab">Isaac Bianco</a>.
+<br/><br/>Queries? Contact info -at- neurodatashare.org.
 <p></p>
 </div>
 
