@@ -7,7 +7,7 @@ permalink: /speakers
 ---
 # Workshop speakers
 
-More details on speakers to follow.
+More details on workshop speakers to follow.
 
 <div class="row">
   {% assign speakers = site.data.speakers | sort: 'name' %}
