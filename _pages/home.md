@@ -67,7 +67,7 @@ Modern experimental neuroscience is producing huge amounts of data at a rapidly 
 
 <div class="col-sm-12">
 <h2>Venue and registration</h2>
-The symposium will take place <b>in person</b> at the Sainsbury Wellcome Centre in London.
+The symposium will take place <b>in person</b> at the Sainsbury Wellcome Centre in London. There will be a separate registration process for the main meeting and the hackathon. 
 <p></p>
 
 <p></p>
@@ -80,15 +80,19 @@ The symposium will take place <b>in person</b> at the Sainsbury Wellcome Centre 
 <div class="col-sm-12">
 <h2>Funding</h2>
 <p>
-The workshop has been made possible by generous support of
-<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a>.
+The workshop has been made possible by generous support of the
+<a href="http://www.sainsburywellcome.org"> Sainsbury Wellcome Centre</a>.
 </p>
 </div>
-
 
 <div class="col-sm-6 text-center" id="sponsorid">
 <a href="https://www.sainsburywellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo"></a>
+</div>
+
+<div class="col-sm-6 text-center" id="sponsorid">
+<a href="https://www.wellcome.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/wellcome.png" class="img-fluid" alt="Wellcome logo"></a>
 </div>
 
 <div class="col-sm-12">
