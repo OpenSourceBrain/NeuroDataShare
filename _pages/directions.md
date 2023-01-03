@@ -7,7 +7,7 @@ permalink: /directions
 ---
 
 <div class="col-sm-12 text-center">
-<h2>Sainsbury Wellcome Centre</h2>
+<h2><a href="https://www.sainsburywellcome.org">Sainsbury Wellcome Centre</a></h2>
 <p>
 25 Howland Street, London, W1T 4JG
 </p>
