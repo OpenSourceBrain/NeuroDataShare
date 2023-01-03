@@ -70,7 +70,8 @@ The symposium will take place <b>in person</b> at the Sainsbury Wellcome Centre 
 
 <p></p>
 <div class="text-center">
-<a class="btn btn-primary btn-lg" href="https://www.neurodatashare.org" role="button">Registration opening soon!</a>
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.com/e/neurodatashare-2023-tickets-478177942097" role="button">Register for main workshop</a>
+<a class="btn btn-primary btn-lg" href="https://forms.gle/4T2eUTEEGnKuiHva8" role="button">Register for hackathon</a>
 </div>
 <p></p>
 </div>

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /programme
 ---
 # Workshop programme
-(More details to follow)
+(More details to follow, see <a href="speakers">list of speakers</a>)
 
 ## Monday 20th Feb 2023 - Workshop day 1
 

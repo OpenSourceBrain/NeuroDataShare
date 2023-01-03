@@ -11,6 +11,8 @@ permalink: /hackathon
 
 <p>The hackathon will also take place at the <a href="directions">Sainsbury Wellcome Centre</a>.</p>
 
+<p><b>Register for the hackathon <a href="https://forms.gle/4T2eUTEEGnKuiHva8">here</a>.</b></p>
+
 (More details to follow)
 
 ## Wednesday 22nd Feb
