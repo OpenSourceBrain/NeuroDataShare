@@ -17,7 +17,7 @@ permalink: /
 NeuroDataShare 2023 <br/>
 Exploring and sharing multi-scale neuroscience data
 </div>
-FEBRUARY 20-23 2022, SAINSBURY WELLCOME CENTRE, LONDON, UK
+FEBRUARY 20-23 2023, SAINSBURY WELLCOME CENTRE, LONDON, UK
 </div>
 </div>
 </div>
@@ -27,7 +27,7 @@ FEBRUARY 20-23 2022, SAINSBURY WELLCOME CENTRE, LONDON, UK
 <div class="bigtitle">
 NeuroDataShare 2023
 </div>
-FEBRUARY 20-23 2022, SAINSBURY WELLCOME CENTRE, LONDON, UK
+FEBRUARY 20-23 2023, SAINSBURY WELLCOME CENTRE, LONDON, UK
 </div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/osbmodels.png">
 </div>
