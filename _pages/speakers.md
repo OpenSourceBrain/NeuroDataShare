@@ -4,7 +4,7 @@ layout: gridlay
 excerpt: "Workshop speakers"
 sitemap: false
 permalink: /speakers
----
+---  
 # Workshop speakers
 
 More details on workshop speakers to follow.
@@ -17,9 +17,9 @@ More details on workshop speakers to follow.
   <div class="col-sm-12">
   <p></p>
   <h2 id="{{ speaker.name }}">
-  {{ speaker.name }}{% if speaker.title %}: {{ speaker.title }}{% endif %}
+  {{ speaker.name }}<i>{% if speaker.title %}: {{ speaker.title }}{% endif %}</i>
   </h2>
-  <p>
+  <p> 
   {% if speaker.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" style="width: 250px; float: right">
   {% endif %}

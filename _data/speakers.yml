@@ -44,10 +44,14 @@
 - name: Saskia de Vreis
   temp: yes
 - name: Hannah Hope
+  title: Open science - a funder's perspective
   temp: yes
 - name: David Kleinfeld 
   temp: yes
 - name: Olivier Ruebel
+  title: The Neurodata Without Borders ecosystem for FAIR neurophysiology data
+  abstract: "The neurophysiology of cells and tissues are monitored electrophysiologically and optically in diverse experiments and species, ranging from flies to humans. Understanding the brain requires integration of data across this diversity, and thus these data must be findable, accessible, interoperable, and reusable (FAIR). In this presentation we will describe with Neurodata Without Borders (NWB) the design and implementation for an open standard for neurophysiology data. The open-source NWB software defines and modularizes the interdependent, yet separable, components of a data language. We will discuss the NWB data standard and software and provide an overview of the broader NWB software ecosystem of community visualization and analysis tools."
+  photo: oliver_ruebel.jpg
   temp: yes
 - name: Martin Haesemeyer
   temp: yes
@@ -57,10 +61,14 @@
 - name: Moritz Helmstaedter
   temp: yes
 - name: Upi Bhalla
+  title: Managing and displaying multiscale data - lessons from simulations
+  abstract: In a perfect world, we would like datasets that represent the activity and properties of every functional component of our experimental systems. This situation has already come true in simulations, as we have access to every parameter and state variable of the model. This overabundance of data presents its own set of design problems for data integration, sharing and visualization, especially for multiscale models that span molecules to networks. I will discuss how we've implemented formats and tools to do this. I suggest that the development of these tools may provide guideposts for managing richer experimental datasets which incorporate multimodal and multiscale data.
+  photo: upi_bhalla.jpg
   temp: yes
 - name: Satra Ghosh
   temp: yes
 - name: Padraig Gleeson 
+  title: Open Source Brain v2.0 - an online interactive environment for data sharing and computational modelling
   temp: yes
 - name: Andreas Schaefer 
   temp: yes
