@@ -5,7 +5,7 @@ excerpt: "Workshop speakers"
 sitemap: false
 permalink: /speakers
 ---  
-# Workshop speakers
+# Workshop speakers 
 
 More details on workshop speakers to follow.
 
@@ -19,7 +19,7 @@ More details on workshop speakers to follow.
   <h2 id="{{ speaker.name }}">
   {{ speaker.name }}<i>{% if speaker.title %}: {{ speaker.title }}{% endif %}</i>
   </h2>
-  <p> 
+  <p>  
   {% if speaker.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" style="width: 250px; float: right">
   {% endif %}

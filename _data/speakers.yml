@@ -54,6 +54,9 @@
   photo: oliver_ruebel.jpg
   temp: yes
 - name: Martin Haesemeyer
+  title: Code plus data - Model-free identification of neural encoding
+  abstract: Brains are not engineered solutions to a well-defined problem but arose through selective pressure acting on random variation. It is therefore unclear how well a model chosen by an experimenter can relate neural activity to experimental conditions. Here we developed “Model-free identification of neural encoding (MINE)” which combines convolutional neural networks with Taylor decomposition approaches to understand and comprehensively characterize the mapping from task features to activity. I will introduce MINE and discuss challenges related to sharing the generated method and data and how we think that sharing analysis code may increase data accessibility.
+  photo: haesemeyer.jpg
   temp: yes
 - name: Kenneth Harris 
   title: Open Neurophysiology Environment - neuro data sharing the easy way
