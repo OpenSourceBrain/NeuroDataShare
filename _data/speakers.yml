@@ -40,8 +40,8 @@
   break: yes
 
 - name: Nathalie Rochefort
-  title: The ‘Low-Power Mode’ of neocortex: energy use and coding precision during food scarcity
-  abstract: How have animals managed to maintain metabolically expensive brains given the volatile and fleeting availability of calories in the natural world? I will present recent results in support of two strategies that involve: 1) an implementation of energy-efficient neural coding, enabling the brain to operate at reduced energy costs, and 2) an efficient use of costly neural resources during food scarcity. These results reveal metabolic state-dependent mechanisms by which the mammalian cortex regulates coding precision to preserve energy in times of food scarcity.
+  title: The Low-Power Mode of neocortex - energy use and coding precision during food scarcity
+  abstract: How have animals managed to maintain metabolically expensive brains given the volatile and fleeting availability of calories in the natural world? I will present recent results in support of two strategies that involve - 1) an implementation of energy-efficient neural coding, enabling the brain to operate at reduced energy costs, and 2) an efficient use of costly neural resources during food scarcity. These results reveal metabolic state-dependent mechanisms by which the mammalian cortex regulates coding precision to preserve energy in times of food scarcity.
   temp: yes
 - name: Saskia de Vreis
   temp: yes
