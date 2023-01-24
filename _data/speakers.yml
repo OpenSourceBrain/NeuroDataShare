@@ -65,6 +65,8 @@
   title: Open Neurophysiology Environment - neuro data sharing the easy way
   temp: yes
 - name: Moritz Helmstaedter
+  title: Cerebral Cortex Connectomics
+  abstract: The mapping of neuronal connectivity is one of the main challenges in neuroscience. We use 3-dimensional electron microscopy (EM) imaging of nerve tissue at nanometer-scale resolution across substantial volumes, extending to more than one millimeter on the side, followed by AI-based image analysis to obtain dense connectivity maps, or connectomes. With these we have recently mapped local circuitry in mouse and human cortex, determining learning-related synaptic traces, inhibitory axonal development, and discovering an expanded interneuron-to-interneuron network in the human cortex.
   temp: yes
 - name: Upi Bhalla
   title: Managing and displaying multiscale data - lessons from simulations
