@@ -14,7 +14,7 @@ More details on workshop speakers to follow.
 
   {% for speaker in speakers %}
   {% unless speaker.break %}
-  <div class="col-sm-12">
+  <div class="col-sm-12"> 
   <p></p>
   <h2 id="{{ speaker.name }}">
   {{ speaker.name }}<i>{% if speaker.title %}: {{ speaker.title }}{% endif %}</i>
