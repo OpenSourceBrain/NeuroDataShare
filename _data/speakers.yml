@@ -40,7 +40,7 @@
   break: yes
 
 - name: Nathalie Rochefort
-  title: The “Low-Power Mode of neocortex“ - energy use and coding precision during food scarcity
+  title: The “Low-Power Mode of neocortex” - energy use and coding precision during food scarcity
   abstract: How have animals managed to maintain metabolically expensive brains given the volatile and fleeting availability of calories in the natural world? I will present recent results in support of two strategies that involve - 1) an implementation of energy-efficient neural coding, enabling the brain to operate at reduced energy costs, and 2) an efficient use of costly neural resources during food scarcity. These results reveal metabolic state-dependent mechanisms by which the mammalian cortex regulates coding precision to preserve energy in times of food scarcity.
   photo: Photo_Rochefort.jpg
   temp: yes
@@ -74,6 +74,7 @@
 - name: Satra Ghosh
   title: Can neuroinformatics infrastructures like DANDI advance scientific discovery?
   abstract: DANDI (dandiarchive.org) is a cellular neurophysiology data archive and collaboration hub built to support multiscale, multispecies, and multimodal neuroscience research. The data and resources related to DANDI support theoretical neuroscience, drive biological applications, and help develop new analytic tools. The DANDI infrastructure is built on open-source technologies and in the cloud, to support dissemination, search, visualization, computation, and coordination in neurophysiology research projects to promote FAIRness and efficiency. Through the lens of DANDI, I will discuss how neuroinformatics infrastructures can be built to support collaborative and open science, and potentially transform knowledge generation.
+  photo: satra_ghosh.png
   temp: yes
 - name: Padraig Gleeson 
   title: Open Source Brain v2.0 - an online interactive environment for data sharing and computational modelling
