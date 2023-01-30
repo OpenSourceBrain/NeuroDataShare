@@ -98,5 +98,8 @@
 - name: Andreas Tolias
   temp: yes
 - name: David Osumi-Sutherland
+  title: Cell Ontologies and Atlas Building - lessons from the Virtual Fly Brain 
+  abstract: The use of semantic technologies has great potential to improve the discoverability and interoperability of ever-increasing volumes of cellular resolution neuroscience data.  Virtual Fly Brain has used these technologies to build an integrated knowledge base for Drosophila neuroscience, using standard classifications of cell types curated the literature to integrate over 150,000 cross-registered 3D images along with connectomics and transcriptomics data. I will present details of VFB and discuss two major challenges - the challenge of community engagement and adoption of ontologies and metadata standards; and the challenge reconciling data-driven approaches to classification with the simple categorical approaches typical of semantic technologies. 
+  photo: osumi-sutherland.jpg
   temp: yes
 
