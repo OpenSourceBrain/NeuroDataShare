@@ -19,5 +19,3 @@ by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootst
 The source code for this website maintained on [GitHub](https://github.com/OpenSourceBrain/NeuroDataShare)
 for version control and is freely available under MIT license.  The website is hosted on
 [GitHub Pages](https://pages.github.com/).
-
-Special thanks to XX for the source image used to create the site's banner.
