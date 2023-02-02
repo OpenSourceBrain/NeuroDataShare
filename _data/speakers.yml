@@ -81,6 +81,8 @@
   temp: yes
 - name: Padraig Gleeson 
   title: Open Source Brain v2.0 - an online interactive environment for data sharing and computational modelling
+  abstract: Modern neuroscience relies on a combination of experimental and computational approaches to understand the brain. We have developed an updated version of the Open Source Brain platform (OSBv2), a browser based, integrated research environment for both experimental data analysis and theoretical/modelling research. OSBv2 uses NWB as the recommended data sharing format, and also integrates the graphical frontend to NetPyNE to facilitate the simulation and analysis of network models, as well as providing access to fully interactive computing environments with JupyterLab. Providing this single, integrated environment for data analysis and modelling will help close the gap between experimental observations and insights obtained through computational modelling.
+  photo: PGleeson.jpg
   temp: yes
 - name: Andreas Schaefer 
   temp: yes
