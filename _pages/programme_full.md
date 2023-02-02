@@ -31,7 +31,6 @@ permalink: /programme
       {% unless speaker.break %}</a>{% endunless %}
       </td>
     </tr>
-    {% endunless %}
     {% endfor %}
   </tbody>
 </table>
