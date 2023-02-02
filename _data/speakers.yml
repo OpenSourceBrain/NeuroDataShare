@@ -2,13 +2,20 @@
   break: yes
   time: 8.45-9.00
 
-- title: Opening remarks
-  break: yes
-  time: 9.00-9.10
-
 - title: Morning session 1
   break: yes
-  time: 9.10-11.00
+
+- title: Opening remarks
+  name: Angus Silver
+  time: 9.00-9.10
+
+
+- name: Mei Zhen
+  time: 9.35-10.10
+  title: Connectomics analyses for the formation and plasticity of neural networks 
+  abstract: Animals may maintain, update, or alter behaviors as their circuitries undergo developmental and environmental changes. The transition process of the C. elegans nervous system from its juvenile to mature configuration is a good experimental platform to reveal rules that govern the form and plasticity of neural networks. We have combined connectomics, optogenetics, and modeling approaches to address how the relationship between the C. elegans’ structural and functional circuitry changes during development. These analyses implicate multiple maturation strategies to serve different etiology needs.
+  photo: mei_zhen.jpeg
+  temp: yes
 
 - title: Coffee break
   break: yes
@@ -88,11 +95,7 @@
   temp: yes
 - name: Stephanie Albin
   temp: yes
-- name: Mei Zhen
-  title: Connectomics analyses for the formation and plasticity of neural networks 
-  abstract: Animals may maintain, update, or alter behaviors as their circuitries undergo developmental and environmental changes. The transition process of the C. elegans nervous system from its juvenile to mature configuration is a good experimental platform to reveal rules that govern the form and plasticity of neural networks. We have combined connectomics, optogenetics, and modeling approaches to address how the relationship between the C. elegans’ structural and functional circuitry changes during development. These analyses implicate multiple maturation strategies to serve different etiology needs.
-  photo: mei_zhen.jpeg
-  temp: yes
+
 - name: Karolina Socha
   temp: yes
 - name: Andreas Tolias
