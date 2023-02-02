@@ -1,9 +1,9 @@
 ---
-title: "NeuroDataShare - Programme"
+title: "NeuroDataShare - Full programme"
 layout: gridlay
-excerpt: "Workshop programme"
+excerpt: "Workshop programme full"
 sitemap: false
-permalink: /programme
+permalink: /programme_full
 ---
 # Workshop programme
 (More details to follow, see <a href="speakers">list of speakers</a>)
