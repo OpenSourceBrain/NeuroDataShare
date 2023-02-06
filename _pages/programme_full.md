@@ -11,18 +11,19 @@ permalink: /programme_full
 ## Monday 20th Feb 2023 - Workshop day 1
 
 <div class="row">
-<div class="col-sm-12">
+<div class="col-sm-12"> 
 <p></p>
 <table class="table table-hover">
   <thead>
     <tr>
       <th scope="col" style="width: 130px">Time</th>
       <th scope="col">Speaker</th>
-      <th scope="col">Title</th>
+      <th scope="col">Title</th> 
     </tr>
   </thead>
   <tbody>
-    {% for speaker in site.data.speakers %}
+    {% for speaker in site.data.speakers %} 
+    {% if speaker.day == "monday" %}
     <tr>
       <th scope="row">{{ speaker.time }}</th>
       <td>{{ speaker.name }}</td>
@@ -31,6 +32,7 @@ permalink: /programme_full
       {% unless speaker.break %}</a>{% endunless %}
       </td>
     </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
@@ -54,7 +56,7 @@ permalink: /programme_full
   </thead>
   <tbody>
     {% for speaker in site.data.speakers %}
-    {% unless speaker.temp %}
+    {% if speaker.day == "tuesday" %}
     <tr>
       <th scope="row">{{ speaker.time }}</th>
       <td>{{ speaker.name }}</td>
@@ -63,7 +65,7 @@ permalink: /programme_full
       {% unless speaker.break %}</a>{% endunless %}
       </td>
     </tr>
-    {% endunless %}
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>

@@ -1,108 +1,187 @@
 - title: Check-in and badge collection
   break: yes
   time: 8.45-9.00
-
-- title: Morning session 1
-  break: yes
+  day: monday
 
 - title: Opening remarks
   name: Angus Silver
-  time: 9.00-9.10
-
+  time: 9.00-9.15
+  day: monday
 
 - name: Mei Zhen
-  time: 9.35-10.10
+  time: 9.15-9:50
   title: Connectomics analyses for the formation and plasticity of neural networks 
   abstract: Animals may maintain, update, or alter behaviors as their circuitries undergo developmental and environmental changes. The transition process of the C. elegans nervous system from its juvenile to mature configuration is a good experimental platform to reveal rules that govern the form and plasticity of neural networks. We have combined connectomics, optogenetics, and modeling approaches to address how the relationship between the C. elegans’ structural and functional circuitry changes during development. These analyses implicate multiple maturation strategies to serve different etiology needs.
   photo: mei_zhen.jpeg
   temp: yes
+  day: monday
+
+- name: Olivier Ruebel
+  time: 9:50-10.25
+  title: The Neurodata Without Borders ecosystem for FAIR neurophysiology data
+  abstract: "The neurophysiology of cells and tissues are monitored electrophysiologically and optically in diverse experiments and species, ranging from flies to humans. Understanding the brain requires integration of data across this diversity, and thus these data must be findable, accessible, interoperable, and reusable (FAIR). In this presentation we will describe with Neurodata Without Borders (NWB) the design and implementation for an open standard for neurophysiology data. The open-source NWB software defines and modularizes the interdependent, yet separable, components of a data language. We will discuss the NWB data standard and software and provide an overview of the broader NWB software ecosystem of community visualization and analysis tools."
+  photo: oliver_ruebel.jpg
+  temp: yes
+  day: monday
 
 - title: Coffee break
   break: yes
-  time: 11.00-11.20
+  time: 10.25-11.00
+  day: monday
 
-- title: Morning session 2
-  break: yes
-  time: 11.20-12.30
+- name: Moritz Helmstaedter
+  title: Cerebral Cortex Connectomics
+  abstract: The mapping of neuronal connectivity is one of the main challenges in neuroscience. We use 3-dimensional electron microscopy (EM) imaging of nerve tissue at nanometer-scale resolution across substantial volumes, extending to more than one millimeter on the side, followed by AI-based image analysis to obtain dense connectivity maps, or connectomes. With these we have recently mapped local circuitry in mouse and human cortex, determining learning-related synaptic traces, inhibitory axonal development, and discovering an expanded interneuron-to-interneuron network in the human cortex.
+  photo: helmstaedter.png
+  temp: yes
+  time: 11.00-11:35
+  day: monday
+
+- name: Stephanie Albin
+  temp: yes
+  time: 11:35-12:10
+  day: monday
+
+- name: David Kleinfeld 
+  temp: yes
+  time: 12:10-12:45
+  day: monday
 
 - title: Lunch reception - all attendees welcome!
   break: yes
-  time: 12.30-13.30
+  time: 12.45-14:00
+  day: monday
 
-- title: Afternoon session 1
-  break: yes
-  time: 13.30-15:00
+- name: Kenneth Harris 
+  title: Open Neurophysiology Environment - neuro data sharing the easy way
+  temp: yes
+  time: 14:00-14:35
+  day: monday
+
+- name: Padraig Gleeson 
+  title: Open Source Brain v2.0 - an online interactive environment for data sharing and computational modelling
+  abstract: Modern neuroscience relies on a combination of experimental and computational approaches to understand the brain. We have developed an updated version of the Open Source Brain platform (OSBv2), a browser based, integrated research environment for both experimental data analysis and theoretical/modelling research. OSBv2 uses NWB as the recommended data sharing format, and also integrates the graphical frontend to NetPyNE to facilitate the simulation and analysis of network models, as well as providing access to fully interactive computing environments with JupyterLab. Providing this single, integrated environment for data analysis and modelling will help close the gap between experimental observations and insights obtained through computational modelling.
+  photo: PGleeson.jpg
+  temp: yes
+  time: 14:35-15:10
+  day: monday
+
+- name: TBC 
+  temp: yes
+  time: 15:10-15:45
+  day: monday
 
 - title: Coffee break
   break: yes
-  time: 15.00-15.20
+  time: 15:45-16:15
+  day: monday
 
-- title: Afternoon session 1
+- title: Discussion session 1
   break: yes
-  time: 15:20-17:00
+  time: 16:15-17:30
+  day: monday
 
 - name:
   title: Social and networking reception - all attendees welcome!
-  time: 17.00-18.30
+  time: 17.30-18.30
   break: yes
+  day: monday
+
+- title: Check-in and badge collection
+  break: yes
+  time: 8.45-9.00
+  day: tuesday
 
 - name: Nathalie Rochefort
   title: The “Low-Power Mode of neocortex” - energy use and coding precision during food scarcity
   abstract: How have animals managed to maintain metabolically expensive brains given the volatile and fleeting availability of calories in the natural world? I will present recent results in support of two strategies that involve - 1) an implementation of energy-efficient neural coding, enabling the brain to operate at reduced energy costs, and 2) an efficient use of costly neural resources during food scarcity. These results reveal metabolic state-dependent mechanisms by which the mammalian cortex regulates coding precision to preserve energy in times of food scarcity.
   photo: Photo_Rochefort.jpg
   temp: yes
-- name: Saskia de Vreis
-  temp: yes
-- name: Hannah Hope
-  title: Open science - a funder's perspective
-  temp: yes
-- name: David Kleinfeld 
-  temp: yes
-- name: Olivier Ruebel
-  title: The Neurodata Without Borders ecosystem for FAIR neurophysiology data
-  abstract: "The neurophysiology of cells and tissues are monitored electrophysiologically and optically in diverse experiments and species, ranging from flies to humans. Understanding the brain requires integration of data across this diversity, and thus these data must be findable, accessible, interoperable, and reusable (FAIR). In this presentation we will describe with Neurodata Without Borders (NWB) the design and implementation for an open standard for neurophysiology data. The open-source NWB software defines and modularizes the interdependent, yet separable, components of a data language. We will discuss the NWB data standard and software and provide an overview of the broader NWB software ecosystem of community visualization and analysis tools."
-  photo: oliver_ruebel.jpg
-  temp: yes
-- name: Martin Haesemeyer
-  title: Code plus data - Model-free identification of neural encoding
-  abstract: Brains are not engineered solutions to a well-defined problem but arose through selective pressure acting on random variation. It is therefore unclear how well a model chosen by an experimenter can relate neural activity to experimental conditions. Here we developed “Model-free identification of neural encoding (MINE)” which combines convolutional neural networks with Taylor decomposition approaches to understand and comprehensively characterize the mapping from task features to activity. I will introduce MINE and discuss challenges related to sharing the generated method and data and how we think that sharing analysis code may increase data accessibility.
-  photo: haesemeyer.jpg
-  temp: yes
-- name: Kenneth Harris 
-  title: Open Neurophysiology Environment - neuro data sharing the easy way
-  temp: yes
-- name: Moritz Helmstaedter
-  title: Cerebral Cortex Connectomics
-  abstract: The mapping of neuronal connectivity is one of the main challenges in neuroscience. We use 3-dimensional electron microscopy (EM) imaging of nerve tissue at nanometer-scale resolution across substantial volumes, extending to more than one millimeter on the side, followed by AI-based image analysis to obtain dense connectivity maps, or connectomes. With these we have recently mapped local circuitry in mouse and human cortex, determining learning-related synaptic traces, inhibitory axonal development, and discovering an expanded interneuron-to-interneuron network in the human cortex.
-  photo: helmstaedter.png
-  temp: yes
-- name: Upi Bhalla
-  title: Managing and displaying multiscale data - lessons from simulations
-  abstract: In a perfect world, we would like datasets that represent the activity and properties of every functional component of our experimental systems. This situation has already come true in simulations, as we have access to every parameter and state variable of the model. This overabundance of data presents its own set of design problems for data integration, sharing and visualization, especially for multiscale models that span molecules to networks. I will discuss how we've implemented formats and tools to do this. I suggest that the development of these tools may provide guideposts for managing richer experimental datasets which incorporate multimodal and multiscale data.
-  photo: upi_bhalla.jpg
-  temp: yes
+  time: 9.00-9:35
+  day: tuesday
+
 - name: Satra Ghosh
   title: Can neuroinformatics infrastructures like DANDI advance scientific discovery?
   abstract: DANDI (dandiarchive.org) is a cellular neurophysiology data archive and collaboration hub built to support multiscale, multispecies, and multimodal neuroscience research. The data and resources related to DANDI support theoretical neuroscience, drive biological applications, and help develop new analytic tools. The DANDI infrastructure is built on open-source technologies and in the cloud, to support dissemination, search, visualization, computation, and coordination in neurophysiology research projects to promote FAIRness and efficiency. Through the lens of DANDI, I will discuss how neuroinformatics infrastructures can be built to support collaborative and open science, and potentially transform knowledge generation.
   photo: satra_ghosh.png
   temp: yes
-- name: Padraig Gleeson 
-  title: Open Source Brain v2.0 - an online interactive environment for data sharing and computational modelling
-  abstract: Modern neuroscience relies on a combination of experimental and computational approaches to understand the brain. We have developed an updated version of the Open Source Brain platform (OSBv2), a browser based, integrated research environment for both experimental data analysis and theoretical/modelling research. OSBv2 uses NWB as the recommended data sharing format, and also integrates the graphical frontend to NetPyNE to facilitate the simulation and analysis of network models, as well as providing access to fully interactive computing environments with JupyterLab. Providing this single, integrated environment for data analysis and modelling will help close the gap between experimental observations and insights obtained through computational modelling.
-  photo: PGleeson.jpg
-  temp: yes
+  time: 9:35-10:10
+  day: tuesday
+
 - name: Andreas Schaefer 
   temp: yes
-- name: Stephanie Albin
-  temp: yes
+  time: 10:10-10:45
+  day: tuesday
 
-- name: Karolina Socha
+- title: Coffee break
+  break: yes
+  time: 10.45-11.15
+  day: tuesday
+
+- name: Martin Haesemeyer
+  title: Code plus data - Model-free identification of neural encoding
+  abstract: Brains are not engineered solutions to a well-defined problem but arose through selective pressure acting on random variation. It is therefore unclear how well a model chosen by an experimenter can relate neural activity to experimental conditions. Here we developed “Model-free identification of neural encoding (MINE)” which combines convolutional neural networks with Taylor decomposition approaches to understand and comprehensively characterize the mapping from task features to activity. I will introduce MINE and discuss challenges related to sharing the generated method and data and how we think that sharing analysis code may increase data accessibility.
+  photo: haesemeyer.jpg
   temp: yes
+  time: 11.15-11:50
+  day: tuesday
+
+- name: Hannah Hope
+  title: Open science - a funder's perspective
+  temp: yes
+  time: 11:50-12:25
+  day: tuesday
+
 - name: Andreas Tolias
   temp: yes
+  time: 12:25-13:00
+  day: tuesday
+
+- title: Lunch reception - all attendees welcome!
+  break: yes
+  time: 13:00-14:00
+  day: tuesday
+
+- name: Saskia de Vreis
+  temp: yes
+  time: 14:00-14:35
+  day: tuesday
+
 - name: David Osumi-Sutherland
   title: Cell Ontologies and Atlas Building - lessons from the Virtual Fly Brain 
   abstract: The use of semantic technologies has great potential to improve the discoverability and interoperability of ever-increasing volumes of cellular resolution neuroscience data.  Virtual Fly Brain has used these technologies to build an integrated knowledge base for Drosophila neuroscience, using standard classifications of cell types curated the literature to integrate over 150,000 cross-registered 3D images along with connectomics and transcriptomics data. I will present details of VFB and discuss two major challenges - the challenge of community engagement and adoption of ontologies and metadata standards; and the challenge reconciling data-driven approaches to classification with the simple categorical approaches typical of semantic technologies. 
   photo: osumi-sutherland.jpg
+  temp: yes
+  time: 14:35-15:10
+  day: tuesday
+
+
+
+- name: Upi Bhalla
+  title: Managing and displaying multiscale data - lessons from simulations
+  abstract: In a perfect world, we would like datasets that represent the activity and properties of every functional component of our experimental systems. This situation has already come true in simulations, as we have access to every parameter and state variable of the model. This overabundance of data presents its own set of design problems for data integration, sharing and visualization, especially for multiscale models that span molecules to networks. I will discuss how we've implemented formats and tools to do this. I suggest that the development of these tools may provide guideposts for managing richer experimental datasets which incorporate multimodal and multiscale data.
+  photo: upi_bhalla.jpg
+  temp: yes
+  time: 15:10-15:45
+  day: tuesday
+
+- title: Coffee break
+  break: yes
+  time: 15:45-16:15
+  day: tuesday
+
+- title: Discussion session 2
+  break: yes
+  time: 16:15-17:30
+  day: tuesday
+
+- name:
+  title: Social and networking reception - all attendees welcome!
+  time: 17.30-18.30
+  break: yes
+  day: tuesday
+
+
+- name: Karolina Socha
   temp: yes
 
