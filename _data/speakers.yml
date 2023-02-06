@@ -145,6 +145,9 @@
   day: tuesday
 
 - name: Saskia de Vreis
+  title: The sharing and reuse of neurophysiology data - lessons learned from the Allen Brain Observatory
+  abstract: Since its founding, the Allen Institute has made open data one of its core principles. Specifically, it has become known for generating and sharing survey datasets within the field of neuroscience. Starting a decade ago, we began planning the first surveys of in vivo physiology in mouse cortex with single-cell resolution - the Allen Brain Observatory. We first used 2-photon calcium imaging and later Neuropixels electrophysiology to record spontaneous activity and evoked responses in visual cortex and thalamus of awake mice that were passively exposed to a wide range of visual stimuli (known as “Visual Coding” experiments). In both cases, the data was shared even before we published our own analyses of them. Since they have been released, these data have been used to produce new discoveries, to validate computational algorithms, and as a benchmark for comparison with other data, resulting in over 100 publications and preprints to date. The widespread mining of our publicly available resources demonstrates a clear demand for open neurophysiology data and points to a future in which data reuse becomes more commonplace. I will reflect here on the lessons learned concerning the challenges of data sharing and reuse in the neurophysiology space and ways that we are working to address these in our ongoing efforts. 
+  photo: Saskia_de_Vries.jpg
   temp: yes
   time: 14:00-14:35
   day: tuesday
