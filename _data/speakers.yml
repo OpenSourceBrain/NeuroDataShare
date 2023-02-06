@@ -130,7 +130,9 @@
 
 - name: Hannah Hope
   title: Open science - a funder's perspective
-  temp: yes
+  abstract: I will present Wellcome's perspectives on open science, why we value this approach and the roles we believe it has to play within our work. I will share our approaches to enabling and supporting the researchers we fund to work openly across our portfolio, before highlighting some new work within neuroscience. 
+  temp: yes  
+  photo: HannahHope.jpg 
   time: 11:50-12:25
   day: tuesday
 
