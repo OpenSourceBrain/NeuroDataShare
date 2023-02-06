@@ -54,6 +54,8 @@
 
 - name: Kenneth Harris 
   title: Open Neurophysiology Environment - neuro data sharing the easy way
+  abstract: Data sharing works best when it is easy for both producers and consumers of shared data. Well-designed data standards help data consumers by reducing the time required to study documentation and write custom data loader, but it is also important that standards do not unduly burden data producers, who will likely respond by taking shortcuts that undermine the standardization. This talk will describe the Open Neurophysiology Environment (ONE), a simple data standard used by the International Brain Lab. Data producers can use it simply by naming individual files according to a naming convention that identifies their contents, saving in common formats such as npy, and uploading files to a website. Data consumers will then know how to load and interpret the files without reading documentation.  The standard also scales to larger projects such as IBL, who can run a database allowing data to be rapidly searched.
+  photo: harris.jpg
   temp: yes
   time: 14:00-14:35
   day: monday
