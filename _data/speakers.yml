@@ -111,7 +111,10 @@
   time: 9:35-10:10
   day: tuesday
 
-- name: Andreas Schaefer 
+- name: Carles Bosch Pinol
+  title: Data infrastructure of a correlative multimodal imaging pipeline capable of resolving structure-function patterns in mouse neuronal circuits
+  abstract: Integrating the readouts of both structure and physiology of a brain region that contains a complete neuronal circuit can be a fruitful approach towards understanding how that circuit works. These maps can be reliably generated through a correlative multimodal imaging (CMI) pipeline that combines in vivo 2-photon, synchrotron X-ray and volume electron microscopy. This experimental workflow presents specific challenges for the handling of data and samples - from leveraging large singular datasets of multiple terabytes in size, to making informed decisions on when is the right time to irreversibly destroy (trim) a precious sample for follow-up imaging, to establishing fair policies for the sharing and publishing of data, algorithms and biological findings. I will showcase our particular CMI pipeline in the context of the scientific aims of the lab, and discuss future developments that may bring further meaningful improvements.
+  photo: CarlesPinol.jpg
   temp: yes
   time: 10:10-10:45
   day: tuesday
@@ -138,6 +141,8 @@
   day: tuesday
 
 - name: Andreas Tolias
+  title: Foundation models of the visual cortex
+  abstract: Artificial intelligence has made tremendous strides through deep learning methods, but computer algorithms still lag behind the capabilities of mammalian brains. Despite being trained on vast amounts of data, AI algorithms suffer from a lack of generalization and suffer from brittle results, struggling with tasks like transfer learning, causal reasoning, and scene understanding - all hallmarks of natural intelligence. We believe current deep learning architectures are severely under-constrained, lacking key model biases found in the brain that are instantiated by the multitude of cell types, pervasive feedback, innately structured connectivity, specific non-linearities, local learning rules and learning objectives. To bridge this gap, our goal is to uncover the model biases inherent in the brain. Through cutting-edge experiments and data collection across multiple levels from the visual cortex combined with deep learning, we are building foundation models of the brain's function. These models enable essentially unlimited in silico experiments to provide insights and generate hypotheses about brain function which are then verified using close loop experiments. We are committed to open access and sharing our data and models with the community.
   temp: yes
   time: 12:25-13:00
   day: tuesday
