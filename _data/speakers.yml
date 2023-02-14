@@ -45,7 +45,10 @@
   time: 11:35-12:10
   day: monday
 
-- name: David Kleinfeld 
+- name: Adam Tyson  
+  title: The BrainGlobe Initiative - Developing Open-Source Computational Neuroanatomy Tools 
+  abstract: Neuroanatomy is key for understanding the brain, but software to analyse the data are often single purpose, for one model species and suffer from lack of support following publication. We have established the BrainGlobe Initiative - an international, distributed team of users and developers working towards the goal of creating open-source, interoperable and easy to use tools for the analysis of all types of neuroanatomical data. I will introduce the tools we have developed, and discuss ways in which we can make data analysis easier and more reproducible.
+  photo: AdamTyson.png
   temp: yes
   time: 12:10-12:45
   day: monday
@@ -71,10 +74,7 @@
   time: 14:35-15:10
   day: monday
 
-- name: Adam Tyson
-  title: The BrainGlobe Initiative - Developing Open-Source Computational Neuroanatomy Tools 
-  abstract: Neuroanatomy is key for understanding the brain, but software to analyse the data are often single purpose, for one model species and suffer from lack of support following publication. We have established the BrainGlobe Initiative - an international, distributed team of users and developers working towards the goal of creating open-source, interoperable and easy to use tools for the analysis of all types of neuroanatomical data. I will introduce the tools we have developed, and discuss ways in which we can make data analysis easier and more reproducible.
-  photo: AdamTyson.png
+- name: David Kleinfeld 
   temp: yes
   time: 15:10-15:45
   day: monday
