@@ -78,6 +78,7 @@
   title: Lessons from the murine brain vascular connectome - From global topology to local metabolic load
   abstract: I address common versus heterogeneous aspects of the brain vasculature. Graph analysis of reconstricted networks revealed (1) common network topology across the brain that leads to a shared structural robustness against the rarefaction of vessels, and (2) that the capillary network forms interconnected loops with a topology that is invariant to the position and boundary of cortical columns. Geometrical analysis uncovered a scaling law that links length density, i.e., the length of vessel per volume, with tissue-to-vessel distances and provides a means to connect regional differences in metabolism to differences in length density. These and other issues will be discussed with refererece to the importance of complete, large-scale data sets.
   temp: yes
+  photo: DavidKleinfeld.jpg
   time: 15:10-15:45
   day: monday
 
