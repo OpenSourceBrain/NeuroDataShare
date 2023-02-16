@@ -87,7 +87,7 @@
   time: 15:45-16:15
   day: monday
 
-- title: Discussion session 1
+- title: Discussion session 1 - Barriers to sharing and reusing data
   break: yes
   time: 16:15-17:30
   day: monday
@@ -192,9 +192,14 @@
   time: 15:45-16:15
   day: tuesday
 
-- title: Discussion session 2
+- title: Discussion session 2 - An action plan for the future of data sharing
   break: yes
-  time: 16:15-17:30
+  time: 16:15-17:25
+  day: tuesday
+
+- title: Concluding remarks
+  break: yes
+  time: 17:25-17:30
   day: tuesday
 
 - name:
