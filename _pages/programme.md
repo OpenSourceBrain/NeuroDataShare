@@ -6,7 +6,6 @@ sitemap: false
 permalink: /programme
 ---
 # Workshop programme
-More details to follow, see the <a href="speakers">list of the speakers</a>. 
 
 ## Monday 20th Feb 2023 - Workshop day 1
 
@@ -24,7 +23,6 @@ More details to follow, see the <a href="speakers">list of the speakers</a>.
   <tbody>
     {% for speaker in site.data.speakers %} 
     {% if speaker.day == "monday" %}
-    {% unless speaker.temp %}
     <tr>
       <th scope="row">{{ speaker.time }}</th>
       <td>{{ speaker.name }}</td>
@@ -33,7 +31,6 @@ More details to follow, see the <a href="speakers">list of the speakers</a>.
       {% unless speaker.break %}</a>{% endunless %}
       </td>
     </tr>
-    {% endunless %}
     {% endif %}
     {% endfor %}
   </tbody>
@@ -59,7 +56,6 @@ More details to follow, see the <a href="speakers">list of the speakers</a>.
   <tbody>
     {% for speaker in site.data.speakers %}
     {% if speaker.day == "tuesday" %}
-    {% unless speaker.temp %}
     <tr>
       <th scope="row">{{ speaker.time }}</th>
       <td>{{ speaker.name }}</td>
@@ -68,7 +64,6 @@ More details to follow, see the <a href="speakers">list of the speakers</a>.
       {% unless speaker.break %}</a>{% endunless %}
       </td>
     </tr>
-    {% endunless %}
     {% endif %}
     {% endfor %}
   </tbody>
