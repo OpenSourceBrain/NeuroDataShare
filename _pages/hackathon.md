@@ -11,10 +11,6 @@ permalink: /hackathon
 
 <p>The hackathon will also take place at the <a href="directions">Sainsbury Wellcome Centre</a>.</p>
 
-<p><b>Register for the hackathon <a href="https://forms.gle/4T2eUTEEGnKuiHva8">here</a>.</b></p>
-
-(More details to follow)
-
 ## Wednesday 22nd Feb
 
 <table class="table table-hover">
@@ -28,12 +24,12 @@ permalink: /hackathon
     <tr>
       <th scope="row">09:00 - 12:30</th>
       <td>Detailed technical presentations on:<br/>
-<a href="https://www.nwb.org/">Neurodata Without Borders</a><br/>
-<a href="https://www.v2.opensourcebrain.org/">Open Source Brain platform</a><br/>
-<a href="https://www.dandiarchive.org/">DANDI: Distributed Archives for Neurophysiology Data Integration</a><br/>
-<a href="https://github.com/int-brain-lab">International Brain Laboratory toolchain</a><br/>
-<!--DataJoint usage?
-Allen toolchain handson?-->
+<a href="https://www.nwb.org/">Neurodata Without Borders</a> (Oliver Reubel, Cody Baker)<br/>
+<a href="https://www.v2.opensourcebrain.org/">Open Source Brain platform</a> (Padraig Gleeson)<br/>
+<a href="https://www.dandiarchive.org/">DANDI: Distributed Archives for Neurophysiology Data Integration (Satra Ghosh)</a><br/>
+<a href="https://github.com/int-brain-lab">International Brain Laboratory toolchain (Karolina Socha, Nate Miska, Naureen Ghani)</a><br/>
+<a href="https://portal.brain-map.org/">Allen Institute resources (Saskia de Vries)</a><br/>
+
 </td>
     </tr>
     <tr>
