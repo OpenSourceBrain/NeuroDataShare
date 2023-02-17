@@ -26,9 +26,9 @@ permalink: /hackathon
       <td>Detailed technical presentations on:<br/>
 <a href="https://www.nwb.org/">Neurodata Without Borders</a> (Oliver Reubel, Cody Baker)<br/>
 <a href="https://www.v2.opensourcebrain.org/">Open Source Brain platform</a> (Padraig Gleeson)<br/>
-<a href="https://www.dandiarchive.org/">DANDI: Distributed Archives for Neurophysiology Data Integration (Satra Ghosh)</a><br/>
-<a href="https://github.com/int-brain-lab">International Brain Laboratory toolchain (Karolina Socha, Nate Miska, Naureen Ghani)</a><br/>
-<a href="https://portal.brain-map.org/">Allen Institute resources (Saskia de Vries)</a><br/>
+<a href="https://www.dandiarchive.org/">DANDI: Distributed Archives for Neurophysiology Data Integration</a> (Satra Ghosh)<br/>
+<a href="https://github.com/int-brain-lab">International Brain Laboratory toolchain</a> (Karolina Socha, Nate Miska, Naureen Ghani)<br/>
+<a href="https://portal.brain-map.org/">Allen Institute resources</a> (Saskia de Vries)<br/>
 
 </td>
     </tr>
