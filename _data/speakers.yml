@@ -209,7 +209,7 @@
   day: tuesday
 
 - name: Karolina Socha
-  title:  The International Brain Laboratory: Brain-Wide Map Data – Hands-On Training 
+  title:  The International Brain Laboratory - Brain-Wide Map Data – Hands-On Training 
   abstract: The International Brain Laboratory is a collaboration of 22 labs with the shared mission of advancing our understanding of the neural systems and circuits that underlie behavior. The IBL approaches this challenge with a distributed experiment model, in which scientists within each lab contribute to the same shared scientific experiment. Data collection takes place across 12 labs and is preprocessed and stored centrally. We released our first release of data from the "Brain-wide Map" (BWM) project, in which we have systematically recorded from nearly all major brain areas with Neuropixels probes. We recorded activity from 295501 units from 194 brain regions, by performing 547 probe insertions. These data constitute a brain-wide activity map at single-spike cellular resolution during a decision-making task. In addition to the map, this data set contains other information gathered during the task - sensory stimuli presented to the mouse; mouse decisions and response times; and mouse behavioral information from analyzed video recordings. Here, I will provide hands-on training using the IBL-BWM data set and share details on the structure and organization of large data sets collected by different labs.
   temp: yes
 
