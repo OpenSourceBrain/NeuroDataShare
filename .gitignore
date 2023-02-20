@@ -2,3 +2,4 @@
 /_site
 /run.sh
 /.jekyll-metadata
+.DS_Store
