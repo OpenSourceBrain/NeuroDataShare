@@ -16,7 +16,7 @@
   temp: yes
   day: monday
 
-- name: Oliver Ruebel
+- name: Oliver Rübel
   time: 9:50-10.25
   title: The Neurodata Without Borders ecosystem for FAIR neurophysiology data
   abstract: "The neurophysiology of cells and tissues are monitored electrophysiologically and optically in diverse experiments and species, ranging from flies to humans. Understanding the brain requires integration of data across this diversity, and thus these data must be findable, accessible, interoperable, and reusable (FAIR). In this presentation we will describe with Neurodata Without Borders (NWB) the design and implementation for an open standard for neurophysiology data. The open-source NWB software defines and modularizes the interdependent, yet separable, components of a data language. We will discuss the NWB data standard and software and provide an overview of the broader NWB software ecosystem of community visualization and analysis tools."
